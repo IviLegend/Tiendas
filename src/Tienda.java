@@ -3,7 +3,7 @@ import java.util.ArrayList;
 /**
  * Clase de tienda. Contiene un inventario de objetos
  * @author Ivan
- * @version 1.0.0
+ * @version 1.1.0
  */
 public class Tienda
 {

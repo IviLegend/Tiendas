@@ -1,3 +1,8 @@
+/**
+ * Clase para almacenar los productos, con nombre y precio
+ * @author Ivan
+ * @version 1.1.1
+ */
 public class Producto
 {
     /// ATRIBUTOS
