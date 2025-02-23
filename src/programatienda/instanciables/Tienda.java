@@ -1,3 +1,5 @@
+package programatienda.instanciables;
+
 import java.util.ArrayList;
 
 /**

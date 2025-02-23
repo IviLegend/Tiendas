@@ -1,3 +1,5 @@
+package programatienda.instanciables;
+
 /**
  * Clase para almacenar los productos, con nombre y precio
  * @author Ivan
